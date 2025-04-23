@@ -92,16 +92,6 @@ After creating the production build, run:
 
 - `npm run serve` or `pnpm run serve` or `yarn run serve` and open the browser at `http://localhost:4173`
 
-## Connect With Me
-
-<!-- 👤 **Fabricio** -->
-
-| &nbsp;       | &nbsp;                                               |
-| ------------ | ---------------------------------------------------- |
-| **GitHub**   | [@fabri4c](https://github.com/fabri4c)           |
-| **Twitter**  | [@fabri_4c](https://twitter.com/fabri_4c)          |
-| **LinkedIn** | [@fabri4c](https://www.linkedin.com/in/fabri4c/) |
-
 ## Show your support
 
 You can give a ⭐️ if you like this project!
@@ -115,6 +105,16 @@ The ideas and inspiration from this project are coming from the following:
 - [Stylelint docs](https://stylelint.io/user-guide/configure/)
 - [starter-vite-react](https://github.com/warugaki-web-developer/starter-vite-react)
 - [Vitamin](https://github.com/wtchnm/Vitamin)
+
+## Connect With Fabricio ( the man i forked his repo )
+
+<!-- 👤 **Fabricio** -->
+
+| &nbsp;       | &nbsp;                                               |
+| ------------ | ---------------------------------------------------- |
+| **GitHub**   | [@fabri4c](https://github.com/fabri4c)           |
+| **Twitter**  | [@fabri_4c](https://twitter.com/fabri_4c)          |
+| **LinkedIn** | [@fabri4c](https://www.linkedin.com/in/fabri4c/) |
 
 ## License
 
